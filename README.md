@@ -14,7 +14,7 @@
   <h3 align="center">Interactive 3D Portfolio Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. 
     </div>
 </div>
 
@@ -77,8 +77,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
-cd 3d-portfolio
+git clone https://github.com/brier-ntonnie/brier-s-Official-Portifolio.git
+cd brier-s-Official-Portifolio
 ```
 
 **Installation**
@@ -111,8 +111,6 @@ Open [http://localhost:5173](http://localhost:5173/) in your browser to view the
 
 
 ## <a name="links">🔗 Assets and Snippets</a>
-
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
   <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
 </a>
 
@@ -124,6 +122,5 @@ Open [http://localhost:5173](http://localhost:5173/) in your browser to view the
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://beta.jsmastery.pro/" target="_blank">
   <img src="public/images/readme-bottom.png" alt="Project Banner">
 </a>
